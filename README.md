@@ -1,2 +1,2 @@
 # OpenSimIAAPlugin
-OpenSim IAA Plugin
+OpenSim Induced Acceleration Plugin
